@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Icema2</h1>
-<h3 align="center">I'm a professional Kickboxer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Icema2&label=Profile%20views&color=0e75b6&style=flat" alt="Icema2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Icema2" alt="Icema2" /></a> </p>
 
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [github.com/Icema2](github.com/Icema2)
 
-- 💬 Ask me about **Artificial Intelligence, Quantam physics, Machine Learning**
+- 💬 Ask me about **Artificial Intelligence and Machine Learning**
 
-
-- ⚡ Fun fact **I sometimes walk on the sky**
 
 
 <h3 align="left">Languages and Tools:</h3>
